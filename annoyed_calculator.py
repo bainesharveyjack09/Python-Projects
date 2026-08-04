@@ -8,8 +8,7 @@ sub_quotes = ["okay atleast it's not adding", "this better result in a minus or 
 "bruh SUBTRACTING?! you could've made it atleast more interesting smh.",
 "whatever, fine, more complex than addition atleast"]
 
-div_quotes = ["okay, I can atleast kinda get why you need help with this", "hey I got a question, what's 0 divided by 0?", "Alright, now this is finally interesting",
-"hehe you're a div head" ]
+div_quotes = ["okay, I can atleast kinda get why you need help with this", "hey I got a question, what's 0 divided by 0?", "Alright, now this is finally interesting",]
 
 mult_quotes = ["awww okay, you need help with your 12 times tabwes? u so cute wittle baby", 
 "my [non gender specific identifier], WHY DO YOU NEED HELP WITH THIS?!, it's so easyyyy; \n9 times tables, the 2 digits always equal nine. \n11, they're always the same until 11 times 11",
